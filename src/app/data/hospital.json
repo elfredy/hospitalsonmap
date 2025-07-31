@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "name": "Mərkəzi Klinik Xəstəxana",
+        "lat": 40.3777,
+        "lng": 49.8920,
+        "type": "özəl",
+        "is24Hours": true
+    },
+    {
+        "id": 2,
+        "name": "Respublika Klinik Xəstəxanası",
+        "lat": 40.3956,
+        "lng": 49.8822,
+        "type": "dövlət",
+        "is24Hours": false
+    },
+    {
+        "id": 3,
+        "name": "City Hospital",
+        "lat": 40.4080,
+        "lng": 49.8675,
+        "type": "özəl",
+        "is24Hours": true
+    }
+]
